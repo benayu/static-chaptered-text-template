@@ -4,6 +4,8 @@ This template makes it easier to host text files with chapters (such as novels) 
 
 > Each chapter must be an HTML file in the directory
 
+View the demo at https://benayu.github.io/static-chaptered-text-template/?chapter=chapter_1
+
 ## Setup:
 1. Download the repository.
 2. Use a text editor such as Notepad++ or VSCode.
