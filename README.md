@@ -22,9 +22,9 @@ The easiest way to do this is through Google Docs.
 4. Modify index.html.
 
 ## Optional:
-If you want your text to be unselectable, open Chapter_1.html, find `<body` and paste` styles="-webkit-touch-callout: none;-webkit-user-select: none; -khtml-user-select: none;-moz-user-select: none; -ms-user-select: none; user-select: none;"` after.
+If you want your text to be unselectable, open Chapter_1.html, find `<body` and paste `styles="-webkit-touch-callout: none;-webkit-user-select: none; -khtml-user-select: none;-moz-user-select: none; -ms-user-select: none; user-select: none;"` after.
 
-To disable side scrolling in the content, open Chapter_1.html, find `<body` and paste `styles="max-width: 100%; overflow-x: hidden;"` and find `<html` and paste `styles="max-width: 100%; overflow-x: hidden; padding: 5%`
+To disable side scrolling in the content, open Chapter_1.html, find `<html` and paste `styles="max-width: 100%; overflow-x: hidden;"` and find `<body` and paste `styles="max-width: 100%; overflow-x: hidden; padding: 5%; margin:0`
 
 
 > ## Known Issues
