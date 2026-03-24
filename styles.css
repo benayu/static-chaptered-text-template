@@ -2,4 +2,6 @@ iframe { flex-grow: 1; border: none; margin: 0; padding: 0; width: 100%}
 
 .content-display {display: flex; height: 100%; flex-direction: column; overflow: hidden;}
 
+.ratio {--bs-aspect-ratio: 178%}
+
 /* Add more styling below: */
