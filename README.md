@@ -19,7 +19,7 @@ The easiest way to do this is through Google Docs.
 1. Go to File > Download > Web page (.html,zipped)
 2. Unzip the file.
 3. Move the folder into your project folder.
-4. Modify index.html.
+4. Modify index.html to update the chapter list and update links. (Check comments for guidance)
 
 ## Optional:
 If you want your text to be unselectable, open Chapter_1.html, find `<body` and paste `styles="-webkit-touch-callout: none;-webkit-user-select: none; -khtml-user-select: none;-moz-user-select: none; -ms-user-select: none; user-select: none;"` after.
